@@ -44,26 +44,26 @@
 <br/>
 
 
-
+<!-- 
 <p align="center">
     <a href="https://github.com/Davisonyeas/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Davisonyeas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Davisonyeas/github-readme-stats"><img alt="Davis Onyeas Github Stats" src="https://github-readme-stats.vercel.app/api?username=Davisonyeas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <!-- <br/>
+    <a href="https://github.com/Davisonyeas/github-readme-stats"><img alt="Davis Onyeas Github Stats" src="https://github-readme-stats.vercel.app/api?username=Davisonyeas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <a href="https://github.com/Davisonyeas/github-readme-stats"><img alt="Davis Onyeoguzoro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davisonyeas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
-<a href="https://github.com/Davisonyeas/github-readme-activity-graph"><img alt="Davis Onyeoguzoro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Davisonyeas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/ayuba/github-readme-activity-graph"><img alt="Davis Onyeoguzoro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Davisonyeas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
