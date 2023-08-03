@@ -6,7 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on an **[AI Research Project]([[https://davisonye.github.io](http://davisonye.pythonanywhere.com/)](http://davisonye.pythonanywhere.com/)/)**
+- 🔭 I’m currently working on an **[AI Research Project]([[https://davisonye.github.io](https://davisonye.pythonanywhere.com/)](https://davisonye.pythonanywhere.com/)/)**
+
+- **http://davisonye.pythonanywhere.com/**
 
 - 🌱 I enjoy exploring **Machine Learning models, Data Analytics as well as Data Structures and Algorithms.**
 
