@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on an **[AI Research Project](https://davisonye.github.io/)**
+- 🔭 I’m currently working on an **[AI Research Project]([[https://davisonye.github.io](http://davisonye.pythonanywhere.com/)](http://davisonye.pythonanywhere.com/)/)**
 
 - 🌱 I enjoy exploring **Machine Learning models, Data Analytics as well as Data Structures and Algorithms.**
 
 - 👯 I’m a **Team Player**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://davisonye.github.io)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]([[https://davisonye.github.io](http://davisonye.pythonanywhere.com/)](http://davisonye.pythonanywhere.com/))**
 
 - 📫 How to reach me **davisonyeas1@gmail.com**
 
