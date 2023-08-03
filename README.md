@@ -6,21 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on an **[AI Research Project]([[https://davisonye.github.io](http://davisonye.pythonanywhere.com/)](http://davisonye.pythonanywhere.com/)/)**
+- 👨‍💻 All of my projects are available on My Portfolio Website - **http://davisonye.pythonanywhere.com/**
 
-- 🔭 I’m currently working on an **[AI Research Project]([[https://davisonye.github.io](http://davisonye.pythonanywhere.com/)](http://davisonye.pythonanywhere.com/)/)**
-
-- My Portfolio - **http://davisonye.pythonanywhere.com/**
-
-- 🌱 I enjoy exploring **Machine Learning models, Data Analytics as well as Data Structures and Algorithms.**
+- 🌱 I enjoy exploring **Machine Learning**
 
 - 👯 I’m a **Team Player**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]([https://davisonye.github.io](http://davisonye.pythonanywhere.com/)](http://davisonye.pythonanywhere.com/))**
+- ⚡ **I love watching documentaries and tech movies**
 
 - 📫 How to reach me **davisonyeas1@gmail.com**
-
-- ⚡ Fun fact; **I love tech movies, especially Silicon Valley.**
 
 ## 🚀 Languages and Tools:
 
