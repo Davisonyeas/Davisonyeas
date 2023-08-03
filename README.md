@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on an **[AI Research Project]([[https://davisonye.github.io](http://davisonye.pythonanywhere.com/)](http://davisonye.pythonanywhere.com/)/)**
 
-- **http://davisonye.pythonanywhere.com/**
+- My Portfolio - **http://davisonye.pythonanywhere.com/**
 
 - 🌱 I enjoy exploring **Machine Learning models, Data Analytics as well as Data Structures and Algorithms.**
 
