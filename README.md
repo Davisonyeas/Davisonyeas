@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available on My Portfolio Website - **http://davisonye.pythonanywhere.com/**
 
-- 🌱 I enjoy exploring **Machine Learning**
+- 🌱 I enjoy exploring **Artificial Intelligence** and **Robotics**
 
 - 👯 I’m a **Team Player**
 
