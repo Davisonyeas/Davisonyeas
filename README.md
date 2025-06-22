@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔍 I’m exploring the intersection of **Artificial Intelligence** and **Robotics** to create impactful solutions.
-- 👨‍💻 Check out my projects on my [Portfolio Website](http://davisonye.pythonanywhere.com/).
+- 👨‍💻 Check out my projects on my [Portfolio Website](https://www.davisonye.com/).
 - 💡 I enjoy **teaching**, **collaborating**, and **sharing knowledge** with the community.
 - 🎥 In my free time, I love watching **documentaries** and **tech movies**.
 - 📫 You can reach me at **davisonyeas1@gmail.com**.
